@@ -2,7 +2,7 @@ body {
   background-color: black;
   display: flex;
   justify-content: center;
-  padding:5px;
+  padding: 5px;
 }
 
 .container {
@@ -10,7 +10,7 @@ body {
   height: 550px;
   background-color: rgb(46, 47, 48);
   border-radius: 2%;
-  
+
 }
 
 .box1 {
@@ -29,12 +29,13 @@ body {
 .box2 {
   width: 200px;
   height: 200px;
-  background-color:rgb(46, 47, 48);
+  background-color: rgb(46, 47, 48);
   border-radius: 50%;
   position: relative;
   top: 100px;
   display: flex;
   justify-content: center;
+
 }
 
 .box3 {
@@ -44,7 +45,7 @@ body {
   border-radius: 50%;
   position: relative;
   top: 10px;
-  
+
 }
 
 h1 {
